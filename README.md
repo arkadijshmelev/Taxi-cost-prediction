@@ -1,7 +1,7 @@
 **Предсказание общей продолжительности поездки на такси в Нью-Йорке.**
 ----
 
-<center> <img src=[https://storage.googleapis.com/kaggle-competitions/kaggle/3333/media/taxi_meter.png](https://s1.1zoom.ru/b5050/921/Taxi_Cars_Toys_Back_view_461304_1920x1200.jpg) align="right" width="300"/> </center>
+<center> <img src=https://s1.1zoom.ru/b5050/921/Taxi_Cars_Toys_Back_view_461304_1920x1200.jpg align="right" width="300"/> </center>
     
 Нам предстоит решить задачу машинного обучения, направленную на автоматизацию бизнес процессов. Мы построим модель, которая будет предсказывать общую продолжительность поездки такси в Нью-Йорке. 
 
